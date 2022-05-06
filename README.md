@@ -1,5 +1,5 @@
 # Coffee_Shop_Website
-the main feature of this website are: 
+The main feature of this website are: 
 responsive header section with search box, navbar toggle and shopping cart box. 
 responsive home section using css flexbox. 
 responsive about section using css flexbox. 
